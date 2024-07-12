@@ -16,4 +16,4 @@ Due to my EAGLE subscription running out, I can only show this design by picture
 ![IMG_7792-min](https://github.com/user-attachments/assets/ac9c7385-c0f8-411b-93c4-37d3e519a954)
 ### Soldered final version
 Watch the video here https://youtube.com/shorts/8-QiAdpP1wY
-<iframe width="560" height="315" src="https://youtube.com/shorts/8-QiAdpP1wY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8-QiAdpP1wY" frameborder="0" allowfullscreen></iframe>
