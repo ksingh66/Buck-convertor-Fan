@@ -1,4 +1,6 @@
 ![⚡Buck-convertor🪭](https://github.com/user-attachments/assets/4f49959f-b367-483e-ba45-bcabf844d1ab)
+
+
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ksingh66/Buck-convertor-Fan/main)
 # Outline
  We power a fan motor with a PWM controlled MOSFET that takes power from our buck convertor. We build both the 555 timer based PWM signal as well as the buck convertor. **View the BOM for parts to buy**.
